@@ -1,0 +1,3 @@
+the number of tasks in the task manager is: 3 
+the number of completed tasks in the task manager is: 1
+the number of uncompleted tasks in the task manager is: 2

@@ -1,0 +1,8 @@
+total number of users registered in task manager: 2
+USER admin:
+TOTAL TASKS:    |PERCENTAGE OF ALL TASKS ASSIGNED TO THE USER:   |PERCENTAGE OF COMPLETED TASKS:  |PERCENTAGE OF UNCOMPLETED TASKS:   |PERCENTAGE OF OVERDUE TASKS: 
+2                 100.0%                                            0.0%                               50.0%                                     100.0%
+USER bighoss:
+TOTAL TASKS:    |PERCENTAGE OF ALL TASKS ASSIGNED TO THE USER:   |PERCENTAGE OF COMPLETED TASKS:  |PERCENTAGE OF UNCOMPLETED TASKS:   |PERCENTAGE OF OVERDUE TASKS: 
+1                 33.33333333333333%                                            100.0%                               0.0%                                     0%
+total number of tasks tracked in task manager: 3
